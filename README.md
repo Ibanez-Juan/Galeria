@@ -1,2 +1,2 @@
 # Galeria
- Sistema de galeria com PHB
+ Sistema de galeria com PHP
